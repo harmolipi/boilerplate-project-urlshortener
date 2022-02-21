@@ -2,7 +2,7 @@
 
 Created as part of [freeCodeCamp](https://www.freecodecamp.org) curriculum.
 
-View on [Github](https://github.com/harmolipi/request-header-parser-microservice).
+View on [Github](https://github.com/harmolipi/url-shortener-microservice).
 
 ## Functionality
 

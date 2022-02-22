@@ -10,7 +10,7 @@ This is the [URL shortener microservice](https://www.freecodecamp.org/learn/back
 
 ## Thoughts
 
-Tbd...
+Simple enough API. Could have saved URLs to a database, but since it's such a small project, I just used an array. It was a very straightforward project.
 
 God bless.
 

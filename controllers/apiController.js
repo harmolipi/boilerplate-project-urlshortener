@@ -6,6 +6,7 @@ exports.get_shorturl = (req, res) => {
 };
 
 exports.post_shorturl = (req, res) => {
+  console.log('Requested URL: ', req.body.url);
   try {
     const url = new URL(req.body.url);
     urls.push(url);
